@@ -1,2 +1,2 @@
 # dio-java-b-sico
-Repositório para armazenar todo o conteúdo de Java básico 
+Repositório para armazenar todo o conteúdo de Java-básico 
